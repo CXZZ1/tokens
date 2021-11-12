@@ -1,0 +1,11 @@
+{
+ "name": "MoeMoe",
+ "website": "",
+ "description": "BSC.",
+ "explorer": "https://bscscan.com/token/0x2a68944F96c27e1C94442bEa987c73D0520a4c94",
+ "type": "BEP20",
+ "symbol": "MoeMoe",
+ "decimals": 9,
+ "status": "active",
+ "id": "0x2a68944F96c27e1C94442bEa987c73D0520a4c94"
+}
